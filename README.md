@@ -1,7 +1,7 @@
 # GenLayer Voting Contract (v0.2.16 Compatible)
 
 This project provides a fully functional on-chain voting contract for the GenLayer Bradbury testnet.  
-Since the current GenLayer environment does not expose `msg.sender`, this contract implements a secure `voter_id`–based mechanism to prevent duplicate voting.
+Since the current GenLayer environment does not expose `msg.sender`, this contract implements a secure `voter_id`based mechanism to prevent duplicate voting.
 
 ## Features
 - Candidate initialization via constructor
