@@ -1,6 +1,6 @@
-# GenLayer Voting Contract (v0.2.16 Compatible)
+# GenLayer Voting Contract 
 
-This project provides a fully functional on-chain voting contract for the GenLayer studio testnet.  
+This project provides a fully functional on chain voting contract for the GenLayer studio testnet.  
 Since the current GenLayer environment does not expose `msg.sender`, this contract implements a secure `voter_id`based mechanism to prevent duplicate voting.
 
 ## Features
