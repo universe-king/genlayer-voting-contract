@@ -36,3 +36,4 @@ This contract solves a real limitation in the current GenLayer Studio environmen
 ![genlayer-voting-contract](screenshots/vote_I.png)
 ![genlayer-voting-contract](screenshots/vote_II.png)
 ![genlayer-voting-contract](screenshots/vote_III.png)
+![genlayer-voting-contract](screenshots/get_candidates.png)
