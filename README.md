@@ -6,7 +6,7 @@ Since the current GenLayer environment does not expose `msg.sender`, this contra
 ## Features
 - Candidate initialization via constructor
 - Vote counting
-- Duplicate-vote prevention using `voter_id`
+- Duplicate vote prevention using `voter_id`
 - Fully compatible with GenLayer v0.2.16
 - Tested on Bradbury testnet
 
