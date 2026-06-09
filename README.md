@@ -34,3 +34,5 @@ Screenshots of deployment, voting, and results are available in the `screenshots
 ## Purpose
 This contract solves a real limitation in the current GenLayer Studio environment and provides a practical governance tool for DAOs, community voting, and educational examples.
 ![genlayer-voting-contract](screenshots/vote_I.png)
+![genlayer-voting-contract](screenshots/vote_II.png)
+![genlayer-voting-contract](screenshots/vote_III.png)
